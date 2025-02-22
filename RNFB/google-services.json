@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "192900547405",
+    "project_id": "react-native-expo-f5319",
+    "storage_bucket": "react-native-expo-f5319.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192900547405:android:2f6dc94cf9c9e0d4f72d04",
+        "android_client_info": {
+          "package_name": "com.haseebmirza.rnfb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFk86kKkcErCjJxjAKw0GlNrpHFQcwS8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
